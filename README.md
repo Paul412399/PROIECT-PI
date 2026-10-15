@@ -1,4 +1,4 @@
-# PROIECT-PI
+# Monitorizarea sănătății și a mersului la animale
 
 
 | Nr. | Autor(i) / An | Titlul articolului / proiectului | Aplicație / Domeniu | Tehnologii utilizate | Metodologie / Abordare | Rezultate | Limitări | Comentarii suplimentare |
